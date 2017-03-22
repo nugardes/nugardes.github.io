@@ -475,6 +475,29 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header3-2g .mbr-section-title,
+#header3-2g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2g H3 {
+  font-size: 36px;
+  text-align: right;
+}
+#header6-2h .mbr-section-title {
+  color: #28262b;
+}
+#header6-2h .mbr-section-text {
+  color: #565656;
+}
+#contacts4-1j UL {
+  color: #ffffff;
+}
+#contacts4-1j P {
+  color: #ffffff;
+}
+#contacts4-1j STRONG {
+  color: #ffffff;
+}
 
 
 
