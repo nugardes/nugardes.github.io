@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "porfolio 2.0",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -122,7 +122,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"applications.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Applications I know include:</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe creative cloud.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Indesign</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Animate</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft office.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https:nugardes.github.io/Discuss IT Topic 6.pdf\">Disscuss It 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP World History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP Human Geography</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clients</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certifications.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAL MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC4qq9OiQSXlHdvccJgQFh3g\">Youtube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"applications.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Applications I know include:</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe creative cloud.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Indesign</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Animate</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft office.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP World History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP Human Geography</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clients</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certifications.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAL MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC4qq9OiQSXlHdvccJgQFh3g\">Youtube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"resume.html\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -250,7 +250,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"applications.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Applications I know include:</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe creative cloud.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Indesign</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Animate</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft office.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https:nugardes.github.io/Discuss IT Topic 6.pdf\">Disscuss It 6</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP World History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP Human Geography</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clients</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certifications.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAL MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC4qq9OiQSXlHdvccJgQFh3g\">Youtube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"resume.html\">RESUME</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\">INTRODUCTION</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"gallery.html\">GALLERY</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"applications.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Applications I know include:</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobe creative cloud.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Creative Cloud</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Photoshop CC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Indesign</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Premiere Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Animate</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoft office.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Microsoft Office</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Word</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Excel</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">Final Cut Pro</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"misc.html\">123D</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CERTIFICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Resume</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">AP Classes</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP World History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AP Human Geography</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Clients</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Certifications</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"certifications.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Adobe Premiere</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://nugardes.github.io/Certification.pdf\" target=\"_blank\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAL MEDIA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/channel/UC4qq9OiQSXlHdvccJgQFh3g\">Youtube</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Instagram</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"resume.html\">RESUME</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -276,7 +276,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-20",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "4",
             "paddingBottom": "5",
             "parallax": true,
             "bgImageRadio": true,
@@ -1019,73 +1019,120 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-1-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-4-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-5-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-7-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-7-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-8-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-8-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-9-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-10-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-11-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-12-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-12-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screenshot-13-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-13-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": 0,
