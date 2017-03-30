@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -241,63 +241,42 @@
           "allItem": "All"
         },
         {
-          "_inherit": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#28262b"
+              "color": "#000000"
             },
-            ".mbr-section-text": {
-              "color": "#565656"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-2h",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-2i",
           "_params": {
-            "imageSize": 50,
-            "parallax": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/bCEDhTfC_xs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#ccc",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#ffffff",
             "inverse": true,
-            "showTitle": true,
-            "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "showTitle": true,
+            "showText": false
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=bCEDhTfC_xs&feature=youtu.be",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=bCEDhTfC_xs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VIEW VIDEO TUTORIAL</a>",
+          "title": "Youtube Introductory Video",
+          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_tags": [

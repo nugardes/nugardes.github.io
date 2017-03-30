@@ -483,11 +483,11 @@ h6,
   font-size: 36px;
   text-align: right;
 }
-#header6-2h .mbr-section-title {
-  color: #28262b;
+#msg-box2-2i .mbr-section-title {
+  color: #000000;
 }
-#header6-2h .mbr-section-text {
-  color: #565656;
+#msg-box2-2i .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #contacts4-1j UL {
   color: #ffffff;
