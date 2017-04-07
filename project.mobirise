@@ -98,7 +98,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -408,7 +408,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -952,7 +952,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1337,7 +1337,7 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact Page",
+        "title": "Nayla Ugardes",
         "meta_descr": "Web Builder Description"
       },
       "components": [
@@ -1402,7 +1402,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1495,7 +1495,7 @@
     },
     "certifications.html": {
       "settings": {
-        "title": "Certification",
+        "title": "Nayla Ugardes",
         "meta_descr": "Web Site Creator Description"
       },
       "components": [
@@ -1560,7 +1560,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1590,7 +1590,7 @@
     },
     "adobe creative cloud.html": {
       "settings": {
-        "title": "Adobe Creative Cloud",
+        "title": "Nayla Ugardes",
         "meta_descr": "Web Page Builder Description"
       },
       "components": [
@@ -1655,7 +1655,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -1887,7 +1887,7 @@
     },
     "microsoft office.html": {
       "settings": {
-        "title": "Microsoft Office",
+        "title": "Nayla Ugardes",
         "meta_descr": "Site Maker Description"
       },
       "components": [
@@ -1952,7 +1952,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2188,7 +2188,7 @@
     },
     "misc.html": {
       "settings": {
-        "title": "Misc.",
+        "title": "Nayla Ugardes",
         "meta_descr": "Website Creator Description"
       },
       "components": [
@@ -2253,7 +2253,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2489,7 +2489,7 @@
     },
     "resume.html": {
       "settings": {
-        "title": "Site Creator Title",
+        "title": "Nayla Ugardes",
         "meta_descr": "Site Creator Description"
       },
       "components": [
@@ -2554,7 +2554,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2795,7 +2795,7 @@
     },
     "Imagine Dragons.html": {
       "settings": {
-        "title": "Web Page Builder Title",
+        "title": "Nayla Ugardes",
         "meta_descr": "Web Page Builder Description"
       },
       "components": [
@@ -2860,7 +2860,7 @@
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": false,
@@ -2921,7 +2921,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=W65tRP1Mrt4&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2934,7 +2934,7 @@
           },
           "title": "Imagine Dragons \"Believer\" Music Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click Here for Youtube Link!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=W65tRP1Mrt4&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Click Here for Youtube Link!</a>"
         },
         {
           "_tags": [
