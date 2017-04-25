@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "porfolio 2.0",
-    "currentPage": "index.html",
+    "currentPage": "A thousand million reasons.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3127,7 +3127,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=HiyZOSaHSlQ&feature=youtu.be",
+              "src": "https://www.youtube.com/watch?v=hwIpHV7eD5k&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3140,7 +3140,7 @@
           },
           "title": "A Thousand Million Reasons Music Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=HiyZOSaHSlQ&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Click Here for Youtube Link!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=hwIpHV7eD5k&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Click Here for Youtube Link!</a>"
         },
         {
           "_tags": [
