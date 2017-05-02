@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "porfolio 2.0",
+    "name": "Nayla Ugardes",
     "currentPage": "A thousand million reasons.html",
     "theme": {
       "name": "mobirise3",
@@ -24,7 +24,9 @@
     "uniqCompNum": 97,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -3127,7 +3129,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=hwIpHV7eD5k&feature=youtu.be",
+              "src": "https://www.youtube.com/watch?v=6EGbOP1MYvQ",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -3140,7 +3142,7 @@
           },
           "title": "A Thousand Million Reasons Music Video",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=hwIpHV7eD5k&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Click Here for Youtube Link!</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=6EGbOP1MYvQ\" data-toolbar=\"-mbrBtnMove\">Click Here for Youtube Link!</a>"
         },
         {
           "_tags": [
