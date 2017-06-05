@@ -189,24 +189,16 @@
 #dropdown-menu-2btn-v .navbar-toggler {
   color: #ffffff;
 }
-#dropdown-menu-2btn-9 .hide-buttons [data-button] {
-  display: none !important;
+#ext_menu-10 .mbr-brand__name {
+  font-size: 16px;
 }
-#dropdown-menu-2btn-9 .nav .link,
-#dropdown-menu-2btn-9 .dropdown-item {
-  font-size: 1.2em;
-  color: #ffffff;
+#ext_menu-10.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#dropdown-menu-2btn-9 .navbar,
-#dropdown-menu-2btn-9 .dropdown-menu {
-  background: #333333;
+#ext_menu-10 .mbr-navbar__section {
+  background: #2c2c2c;
 }
-#dropdown-menu-2btn-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-9 .dropdown-menu a:hover,
-#dropdown-menu-2btn-9 .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-9 .navbar-toggler {
+#ext_menu-10 .mbr-navbar__hamburger {
   color: #ffffff;
 }
 #msg-box3-1 .mbr-header .mbr-header__text {
