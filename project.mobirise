@@ -19,54 +19,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-5",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
-              "class": "",
+              "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_inherit": "msg-box1",
@@ -229,54 +231,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-b",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
-              "class": "",
+              "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -354,54 +358,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-c",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
-              "class": "",
+              "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -449,54 +455,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-d",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
-              "class": "",
+              "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -687,54 +695,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-e",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
-              "class": "",
+              "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -757,56 +767,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-t",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
-              "class": "",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_tags": [
@@ -866,56 +876,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-v",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
-              "class": "",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
               "title": "",
               "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         }
       ]
     },
@@ -957,17 +967,19 @@
             "sticky": true,
             "collapsed": false,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -976,8 +988,8 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_styles": {
@@ -1264,56 +1276,56 @@
       },
       "components": [
         {
-          "_inherit": "dropdown-menu",
+          "_inherit": "menu",
           "_tags": [
             "Theme"
           ],
           "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
+            ".mbr-brand__name": {
+              "font-size": "16px"
             },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
-              "color": "#ffffff"
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
             },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
+            ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
           },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-9",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
           "_params": {
-            "bgColor": "#333333",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#ffffff",
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "hideButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sign-white-262x128.png",
-              "class": "",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "landing page.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro page.html\" aria-expanded=\"true\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Gallery.html\">Gallery</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">Resume</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"contact.html\">Contact</a></li>"
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"intro page.html\">Introduction</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Gallery.html\">Gallery</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"resume.html\" data-toolbar=\"-mbrBtnMove\">RESUME</a></li>"
         },
         {
           "_inherit": "header1",
