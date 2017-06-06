@@ -220,7 +220,7 @@
           },
           "title": "After Effects Pieces (Graphics/Video)",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"indesign.html\" data-toolbar=\"-mbrBtnMove\">click here</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"after effects.html\" data-toolbar=\"-mbrBtnMove\">click here</a>"
         }
       ]
     },
