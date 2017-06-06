@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "new one",
-    "currentPage": "Gallery.html",
+    "currentPage": "aftereffects.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1073,10 +1073,10 @@
             }
           },
           "headerAlign": "left",
-          "title": "VIDEO EMBED",
+          "title": "Multimedia Night Intro.",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=HtCAXfzeY5Q&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=HtCAXfzeY5Q&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">link for youtube</a>"
         },
         {
           "_styles": {
@@ -1114,7 +1114,7 @@
             "inverse": false,
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "media": {
@@ -1133,10 +1133,10 @@
             }
           },
           "headerAlign": "left",
-          "title": "VIDEO EMBED",
+          "title": "Intro to Show (Glitch Effect)",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=T_L3P6WjDXE&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=T_L3P6WjDXE&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">link to youtube</a>"
         },
         {
           "_styles": {
@@ -1174,7 +1174,7 @@
             "inverse": false,
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "media": {
@@ -1193,10 +1193,10 @@
             }
           },
           "headerAlign": "left",
-          "title": "VIDEO EMBED",
+          "title": "One of Many Title Slides for Multimedia Show",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=bgaPStILYWw&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/watch?v=bgaPStILYWw&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">link to youtube</a>"
         }
       ]
     },
